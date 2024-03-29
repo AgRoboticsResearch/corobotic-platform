@@ -2,6 +2,9 @@
 ```bash
 pip install -r requirements.txt
 ```
+# Paper 
+A robotic orchard platform increases harvest throughput by controlling worker vertical positioning and platform speed
+https://www.sciencedirect.com/science/article/pii/S0168169924001261
 
 # Compile simulator
 Some cython extensions are used by simulator so need to compile them
