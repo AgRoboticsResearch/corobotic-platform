@@ -3,8 +3,8 @@
 pip install -r requirements.txt
 ```
 # Paper 
-A robotic orchard platform increases harvest throughput by controlling worker vertical positioning and platform speed
-https://www.sciencedirect.com/science/article/pii/S0168169924001261
+[A robotic orchard platform increases harvest throughput by controlling worker vertical positioning and platform speed](https://www.sciencedirect.com/science/article/pii/S0168169924001261)  
+*Fei, Z., & Vougioukas, S. G. (2024). A robotic orchard platform increases harvest throughput by controlling worker vertical positioning and platform speed. Computers and Electronics in Agriculture, 218, 108735.*
 
 # Compile simulator
 Some cython extensions are used by simulator so need to compile them
